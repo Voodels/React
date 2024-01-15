@@ -1,0 +1,6 @@
+read Docs on following topics 
+1)useReducer
+2)useCallBack
+3)useMemo
+4)sending data from React to Server 
+5)Browser Router

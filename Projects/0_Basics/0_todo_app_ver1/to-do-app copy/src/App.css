@@ -1,0 +1,38 @@
+h1{
+    font-size: 3rem;
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #333;
+    margin-bottom: 2rem;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 300;
+  text-align: center;
+  letter-spacing: 2px;
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+input {
+  width: 100%;
+  padding: 0.7rem;
+  font-size: 1.2rem;
+  border: 1px solid #ddd;
+}
+
+input:hover {
+  border: 1.5px solid #333 ; 
+  border-radius: 10px;
+}
+
+body{
+  gap: 1rem;
+}
+.list-container{
+  text-align: left; 
+  padding: 1rem;
+  margin: 1rem; 
+}
